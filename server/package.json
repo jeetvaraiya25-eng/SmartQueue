@@ -1,0 +1,16 @@
+{
+  "name": "smartqueue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Thin web interface for the SmartQueue hospital database. All clinical rules live in MySQL.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "mysql2": "^3.12.0"
+  }
+}
