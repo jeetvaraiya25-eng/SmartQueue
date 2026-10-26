@@ -3,7 +3,7 @@
 Group 15, Sardar Patel Institute of Technology  
 Tanay Soni (2025300250), Aditya D. Trivedi (2025300259), Jeet Varaiya (2025300266)
 
-The emergency department runs inside MySQL 8. Scoring, queue order, doctor assignment, aging, alerts, audit and permissions are stored programs. The website is a thin client: it calls procedures, selects views, and draws the result.
+The emergency department runs inside MySQL 8. Scoring, queue order, doctor assignments, aging, alerts, audit and permissions are stored programs. The website is a thin client: it calls procedures, selects views, and draws the result.
 
 The schema and the reasoning behind it are in [docs/SCHEMA.md](docs/SCHEMA.md). Which file implements F1–F15 is in [docs/FEATURE_MAP.md](docs/FEATURE_MAP.md).
 
